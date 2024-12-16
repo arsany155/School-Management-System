@@ -1,0 +1,17 @@
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Services.deps.json
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Services.dll
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Services.pdb
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Data.dll
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Infrastructure.dll
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Data.pdb
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\bin\Debug\net8.0\SchoolProject.Infrastructure.pdb
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.csproj.AssemblyReference.cache
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.AssemblyInfoInputs.cache
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.AssemblyInfo.cs
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolPr.47F5D2AB.Up2Date
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.dll
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\refint\SchoolProject.Services.dll
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\SchoolProject.Services.pdb
+C:\Users\ARSANY\source\repos\SchoolProject\SchoolProject.Services\obj\Debug\net8.0\ref\SchoolProject.Services.dll
